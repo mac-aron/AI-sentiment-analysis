@@ -1,4 +1,4 @@
-# sentiment-analysis-AI
+# AI-sentiment-analysis
 This mini project involves the automatic classification of sentiment from recorded tweets from Twitter. The task is to study the Tweets dataset, prepare it for machine learning, and to select the best classification model for automatically determining the sentiment displayed by the tweet. This is a classification task and will require a supervised learning approach.
 
 ## How to run?

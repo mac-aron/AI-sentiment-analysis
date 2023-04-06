@@ -32,4 +32,4 @@ The final data preparation is to select the label vectors and feature matrix. Th
 
 ## Results
 
-To see the full report and result please refer to `data_report.pdf`.
+To see the full report and results please refer to `data_report.pdf`.
